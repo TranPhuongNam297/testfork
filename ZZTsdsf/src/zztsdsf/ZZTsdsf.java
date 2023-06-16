@@ -14,7 +14,7 @@ public class ZZTsdsf {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.err.println("Hello World!");
+        System.err.println("Con cặc");
     }
     
 }
